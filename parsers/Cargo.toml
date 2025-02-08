@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "alternative-paths",
+    "alternative-paths-composition",
+    "do-nothing-parser",
+    "custom-return-types"
+, "repeating-with-predicates"]
+resolver = "2"
+
+[workspace.dependencies]
+nom = "8.0.0"

@@ -5,3 +5,4 @@ This is based on Nominomicon https://tfpk.github.io/nominomicon/introduction.htm
 `do-nothing-parser` contains code from the first lesson
 `alternative-paths` and `alternative-paths-composition` contains code from third lesson in which you can learn how to use alternative parsers using `alt()` and then to compose parsers
 `custom-return-types` constains code from fourth lesson which teaches you how to return other than `&str` types for example structs
+`repeating-with-predicates` is based on fifth chapter in which we can how to match input until something happens - linebreak, space, tab and other
